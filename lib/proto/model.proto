@@ -1,0 +1,7 @@
+package proto;
+
+option optimize_for = SPEED;
+
+message AcceptMessage{    
+    required string msg = 1;
+}

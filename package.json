@@ -1,0 +1,14 @@
+{
+  "name": "proto.msg.rpc",
+  "version": "1.0.0",
+  "description": "proto test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "junping",
+  "license": "ISC",
+  "dependencies": {
+    "protobufjs": "^4.0.0"
+  }
+}

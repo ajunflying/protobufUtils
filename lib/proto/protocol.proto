@@ -1,0 +1,7 @@
+package proto;
+
+option optimize_for = SPEED;
+
+enum MessageHandler {
+    AcceptMessage = 0;
+}

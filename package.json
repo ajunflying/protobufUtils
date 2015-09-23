@@ -1,10 +1,14 @@
 {
-  "name": "proto.msg.rpc",
-  "version": "1.0.0",
+  "name": "protobufUtils",
+  "version": "0.1.0",
   "description": "proto test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajunflying/protobufUtils.git"
   },
   "author": "junping",
   "license": "ISC",

@@ -1,6 +1,6 @@
 {
-  "name": "protobufUtils",
-  "version": "0.1.0",
+  "name": "protobufutils",
+  "version": "0.1.1",
   "description": "proto test",
   "main": "index.js",
   "scripts": {

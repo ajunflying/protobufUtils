@@ -9,15 +9,15 @@ var VChecker = require('v_checker');
 
 
 var obj = {
-	str: "111asf",
+	str: "123123",
 	num: 1000,
 	date: 1231231231,
-	ary: [],
+	ary: 1,
 	json: {
 		a:1
 	}
 };
 var vchecker = new VChecker(obj);
 
-vchecker.requireExist("str");
+vchecker.requireArray("ary");
 console.log(vchecker.error);
